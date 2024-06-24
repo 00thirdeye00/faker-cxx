@@ -14,7 +14,6 @@ var annotated_dup =
       [ "Date", "classfaker_1_1Date.html", null ],
       [ "FileOptions", "structfaker_1_1FileOptions.html", null ],
       [ "Finance", "classfaker_1_1Finance.html", null ],
-      [ "Food", "classfaker_1_1Food.html", null ],
       [ "Git", "classfaker_1_1Git.html", "classfaker_1_1Git" ],
       [ "Hacker", "classfaker_1_1Hacker.html", null ],
       [ "Helper", "classfaker_1_1Helper.html", "classfaker_1_1Helper" ],
@@ -33,7 +32,6 @@ var annotated_dup =
       [ "Science", "classfaker_1_1Science.html", "classfaker_1_1Science" ],
       [ "String", "classfaker_1_1String.html", null ],
       [ "System", "classfaker_1_1System.html", null ],
-      [ "Vehicle", "classfaker_1_1Vehicle.html", null ],
       [ "Weather", "classfaker_1_1Weather.html", null ]
     ] ]
 ];
