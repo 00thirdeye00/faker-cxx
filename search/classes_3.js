@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['fileoptions_0',['FileOptions',['../structfaker_1_1FileOptions.html',1,'faker']]],
-  ['finance_1',['Finance',['../classfaker_1_1Finance.html',1,'faker']]]
+  ['hacker_0',['Hacker',['../classfaker_1_1Hacker.html',1,'faker']]],
+  ['helper_1',['Helper',['../classfaker_1_1Helper.html',1,'faker']]]
 ];

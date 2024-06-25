@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['datatype_0',['Datatype',['../classfaker_1_1Datatype.html',1,'faker']]],
-  ['date_1',['Date',['../classfaker_1_1Date.html',1,'faker']]]
+  ['fileoptions_0',['FileOptions',['../structfaker_1_1system_1_1FileOptions.html',1,'faker::system']]],
+  ['finance_1',['Finance',['../classfaker_1_1Finance.html',1,'faker']]]
 ];

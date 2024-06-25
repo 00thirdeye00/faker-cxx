@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['git_0',['Git',['../classfaker_1_1Git.html',1,'faker']]]
+  ['internet_0',['Internet',['../classfaker_1_1Internet.html',1,'faker']]]
 ];
