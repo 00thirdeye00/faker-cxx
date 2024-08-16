@@ -107,6 +107,7 @@ var namespacefaker =
         [ "ISO", "namespacefaker_1_1date.html#a0a1ec9647c68eb08f4f47d162a424c5aa5b512ee8a59deb284ad0a6a035ba10b1", null ],
         [ "Timestamp", "namespacefaker_1_1date.html#a0a1ec9647c68eb08f4f47d162a424c5aaa3d5de3eac8bb00ae86fd1a1005f1500", null ]
       ] ],
+      [ "betweenDate", "namespacefaker_1_1date.html#aee0cb0f04e3955965c38e21423ec4ac2", null ],
       [ "birthdateByAge", "namespacefaker_1_1date.html#a9de04d3e50ab9057ab7a92ed858a744a", null ],
       [ "birthdateByYear", "namespacefaker_1_1date.html#a46e98c27b1c6f313b918cb64d99a5d30", null ],
       [ "dayOfMonth", "namespacefaker_1_1date.html#a2f69901ef0b2b4882da4b46a971218cc", null ],
