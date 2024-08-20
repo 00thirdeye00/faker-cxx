@@ -36,25 +36,9 @@ var person_8h =
       [ "Turkish", "person_8h.html#a659b715d67b28954aef92a078b55f8a8ac1612bbdebfa45467e8ab814e08daff1", null ],
       [ "Ukrainian", "person_8h.html#a659b715d67b28954aef92a078b55f8a8ae78a6fc14ad64f7a78386b20568ce95b", null ]
     ] ],
-    [ "PassportCountry", "person_8h.html#ac71835f2e95a797941cb01c13efff749", [
-      [ "France", "person_8h.html#ac71835f2e95a797941cb01c13efff749a0309a6c666a7a803fdb9db95de71cf01", null ],
-      [ "Poland", "person_8h.html#ac71835f2e95a797941cb01c13efff749a94880bda83bda77c5692876700711f15", null ],
-      [ "Romania", "person_8h.html#ac71835f2e95a797941cb01c13efff749a0c7d5ae44b2a0be9ebd7d6b9f7d60f20", null ],
-      [ "Usa", "person_8h.html#ac71835f2e95a797941cb01c13efff749a867f8282a36dd6525c3d40744a92fcf8", null ]
-    ] ],
     [ "Sex", "person_8h.html#ab7290e4523427c5876299e459d3ed038", [
       [ "Female", "person_8h.html#ab7290e4523427c5876299e459d3ed038ab719ce180ec7bd9641fece2f920f4817", null ],
       [ "Male", "person_8h.html#ab7290e4523427c5876299e459d3ed038a63889cfb9d3cbe05d1bd2be5cc9953fd", null ]
-    ] ],
-    [ "SsnCountry", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90", [
-      [ "England", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a64f607906be7598a02d75dbc1e979662", null ],
-      [ "France", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a0309a6c666a7a803fdb9db95de71cf01", null ],
-      [ "Germany", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90ad8b00929dec65d422303256336ada04f", null ],
-      [ "India", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a7d31e0da1ab99fe8b08a22118e2f402b", null ],
-      [ "Italy", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a1007e1b7f894dfbf72a0eaa80f3bc57e", null ],
-      [ "Poland", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a94880bda83bda77c5692876700711f15", null ],
-      [ "Spain", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a907eba32d950bfab68227fd7ea22999b", null ],
-      [ "Usa", "person_8h.html#ad6599d35e7da66fbcb9b17af862bab90a867f8282a36dd6525c3d40744a92fcf8", null ]
     ] ],
     [ "bio", "person_8h.html#a41deabbecbf923fd045031c7456df21d", null ],
     [ "chineseZodiac", "person_8h.html#a4b696b7118429e5550b9664e6eb4c4a8", null ],
@@ -69,10 +53,10 @@ var person_8h =
     [ "language", "person_8h.html#a996e5552ac035f4c8eca3538343bfd1e", null ],
     [ "lastName", "person_8h.html#a09e7f2c9db689e06a6f057e852fe32e8", null ],
     [ "nationality", "person_8h.html#adb390e221234be2ed111463db5eb681e", null ],
-    [ "passport", "person_8h.html#ae53e51b39112140ebb7f0df60afacebb", null ],
+    [ "passport", "person_8h.html#a6cb88e861df0288cb9552d7868ddddba", null ],
     [ "prefix", "person_8h.html#a58784be091182ce6e6e600b0b2e19a5f", null ],
     [ "sex", "person_8h.html#a6f9626afb67c43e013958f64f5a58419", null ],
-    [ "ssn", "person_8h.html#a5f206e2cdd72189e665d0ab25c2da077", null ],
+    [ "ssn", "person_8h.html#a8e6f181401f124afcead503aa08544da", null ],
     [ "suffix", "person_8h.html#a2d4df33151a522f5abeb90722b0fa3ca", null ],
     [ "westernZodiac", "person_8h.html#a8a744df8b8f7dc01d21047350493be3c", null ]
 ];
