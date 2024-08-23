@@ -127,6 +127,13 @@ var namespacefaker =
       [ "weekdayName", "namespacefaker_1_1date.html#aac708c24548f17807e72646e385f298c", null ],
       [ "year", "namespacefaker_1_1date.html#a768e70b0a52f6ccd31ba84b33167b975", null ]
     ] ],
+    [ "esport", "namespacefaker_1_1esport.html", [
+      [ "event", "namespacefaker_1_1esport.html#ab3a591effe062d25563018b79ce131ef", null ],
+      [ "game", "namespacefaker_1_1esport.html#a374455358048df05aca0dd2fba583484", null ],
+      [ "league", "namespacefaker_1_1esport.html#a8a81b7adad8fcfd6141b85de01f32fd1", null ],
+      [ "player", "namespacefaker_1_1esport.html#a07b32ae6a515b4e2092c5c9ba0ce35db", null ],
+      [ "team", "namespacefaker_1_1esport.html#a4dca21e7774514c10934c9632c17d8e2", null ]
+    ] ],
     [ "finance", "namespacefaker_1_1finance.html", "namespacefaker_1_1finance" ],
     [ "food", "namespacefaker_1_1food.html", [
       [ "alcoholicBeverage", "namespacefaker_1_1food.html#a242b623a082b6729ddc0ca5b06e08a37", null ],
@@ -547,6 +554,15 @@ var namespacefaker =
       [ "vehicleName", "namespacefaker_1_1vehicle.html#ab20d989510dfb2ed421d378c1179ea8e", null ],
       [ "vin", "namespacefaker_1_1vehicle.html#a2dacf1f3d0037cf58abf6322eee29ba3", null ],
       [ "vrm", "namespacefaker_1_1vehicle.html#a3ab3c5b8357f4abe61a81c97e3df99b1", null ]
+    ] ],
+    [ "video", "namespacefaker_1_1video.html", [
+      [ "aspectRatio", "namespacefaker_1_1video.html#a4bf29b3f9af696ffceb3871821bf01ba", null ],
+      [ "audioCodec", "namespacefaker_1_1video.html#a818f441a9d32093357fe95ef2ea526f4", null ],
+      [ "fileExtension", "namespacefaker_1_1video.html#a1416ec90271b7cab404c00d671242234", null ],
+      [ "formatName", "namespacefaker_1_1video.html#afbd6139c778ae8254e1c350e470301c3", null ],
+      [ "resolution", "namespacefaker_1_1video.html#a4104ff1ee323b795c4fab7b508ea8d9c", null ],
+      [ "videoCodec", "namespacefaker_1_1video.html#a57cf35b9566be367509ad3403dd8d841", null ],
+      [ "videoUrl", "namespacefaker_1_1video.html#a0f0a83472a18d225b8e49e6966497241", null ]
     ] ],
     [ "videogame", "namespacefaker_1_1videogame.html", [
       [ "gameTitle", "namespacefaker_1_1videogame.html#ab36d80c15e07e2e266da6df41a40f222", null ],

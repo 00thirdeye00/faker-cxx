@@ -11,6 +11,7 @@ var dir_21275a4f97039163a157995766de70c2 =
     [ "database.h", "database_8h.html", "database_8h" ],
     [ "datatype.h", "datatype_8h.html", "datatype_8h" ],
     [ "date.h", "date_8h.html", "date_8h" ],
+    [ "esport.h", "esport_8h.html", "esport_8h" ],
     [ "faker.h", "faker_8h.html", null ],
     [ "finance.h", "finance_8h.html", "finance_8h" ],
     [ "food.h", "food_8h.html", "food_8h" ],
@@ -34,6 +35,7 @@ var dir_21275a4f97039163a157995766de70c2 =
     [ "string.h", "string_8h.html", "string_8h" ],
     [ "system.h", "system_8h.html", "system_8h" ],
     [ "vehicle.h", "vehicle_8h.html", "vehicle_8h" ],
+    [ "video.h", "video_8h.html", "video_8h" ],
     [ "video_game.h", "video__game_8h.html", "video__game_8h" ],
     [ "weather.h", "weather_8h.html", "weather_8h" ],
     [ "word.h", "word_8h.html", "word_8h" ]
