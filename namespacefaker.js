@@ -206,6 +206,8 @@ var namespacefaker =
       [ "songName", "namespacefaker_1_1music.html#a74c35da84e2a60a833245fb8bffd6c48", null ]
     ] ],
     [ "number", "namespacefaker_1_1number.html", [
+      [ "binary", "namespacefaker_1_1number.html#ac0e51691e8098437c3aeebf66d35c4d0", null ],
+      [ "binary", "namespacefaker_1_1number.html#a46669288c05a8291ecc61c658cb39014", null ],
       [ "hexadecimal", "namespacefaker_1_1number.html#a2ef57e38b2dc94b0f6d7c87adb46eb2f", null ],
       [ "hexadecimal", "namespacefaker_1_1number.html#a9f199def6ac23945c838141f17888192", null ],
       [ "integer", "namespacefaker_1_1number.html#afc3ffd60474194ebb9de6c1fadbd6a6e", null ],
@@ -526,7 +528,7 @@ var namespacefaker =
       [ "studioName", "namespacefaker_1_1videogame.html#a31ebb893e24ebecdc8392f9f36363005", null ]
     ] ],
     [ "weather", "namespacefaker_1_1weather.html", [
-      [ "weatherDescription", "namespacefaker_1_1weather.html#a029a4533396f1266c44ac7aaae7a681f", null ]
+      [ "weatherDescription", "namespacefaker_1_1weather.html#ad5e26b9b6328feeb6e22d64381940199", null ]
     ] ],
     [ "word", "namespacefaker_1_1word.html", [
       [ "adjective", "namespacefaker_1_1word.html#af0f10fe34e975d361fd1d286d5073cc2", null ],
